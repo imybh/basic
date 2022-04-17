@@ -1,6 +1,6 @@
 # **Hello , Stranger .**
 
-## *Visit My Website To Get Know About Me.*
+## *I made this website as my first project and update it as my skills update*
 
 
 
